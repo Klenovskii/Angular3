@@ -1,0 +1,6 @@
+На системнике, а не на буке
+
+cd desktop
+cd Ангуляр
+cd angular-tour-of-heroes
+ng serve --open
